@@ -1,7 +1,6 @@
 package task3;
 
 public class Builder {
-    // Поля для параметров дома
     private int numRooms;
     private int numFloors;
     private boolean hasPool;
@@ -45,6 +44,6 @@ public class Builder {
 
     // Создание объекта House
     public House build() {
-        return new House(this);  // Должен быть доступен теперь, так как находится в одном пакете
+        return new House(this);
     }
 }
