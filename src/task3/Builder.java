@@ -27,8 +27,6 @@ public class Builder {
         this.hasGarage = hasGarage;
         return this;
     }
-
-    // Геттеры для получения значений
     public int getNumRooms() {
         return numRooms;
     }
