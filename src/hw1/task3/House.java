@@ -1,4 +1,4 @@
-package task3;
+package hw1.task3;
 
 public class House {
     private int numRooms;

@@ -1,4 +1,4 @@
-package task1;
+package hw1.task1;
 
 public class Ship implements Transport {
     public void deliver() {

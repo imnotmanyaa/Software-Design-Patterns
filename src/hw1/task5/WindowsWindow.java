@@ -1,4 +1,4 @@
-package task5;
+package hw1.task5;
 
 public class WindowsWindow implements Window {
     public void create() {

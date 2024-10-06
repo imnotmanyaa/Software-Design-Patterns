@@ -1,4 +1,4 @@
-package task1;
+package hw1.task1;
 
 public class Truck implements Transport {
     public void deliver() {

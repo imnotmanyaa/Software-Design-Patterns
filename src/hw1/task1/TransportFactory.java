@@ -1,4 +1,4 @@
-package task1;
+package hw1.task1;
 
 public class TransportFactory {
     public Transport createTransport(String type) {
